@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nconf": "^0.8.5"
+    "nconf": "^0.10.0"
   }
 }
